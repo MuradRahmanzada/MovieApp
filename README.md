@@ -1,6 +1,6 @@
 https://muradrahmanzada.github.io/MovieApp/
 
-- list of movies
-- movie info
-- fav movie
-- actors
+- List of movies
+- Lovie info
+- Fav movie
+- Actors
